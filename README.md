@@ -18,6 +18,7 @@
 <div align="center">
   <a href="https://github.com/GabrielBFLucas">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GabrielBFLucas&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img align="upcenter" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/sz1D7HC.jpg">
   </a>
 </div>
 
