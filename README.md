@@ -22,16 +22,21 @@
 </div>
 
 <div align="center" valign="top"><br>
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="github" height="35" width="35" src="/assets/GitHub.png">
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="linux" height="30" width="40" src="https://banner2.cleanpng.com/20190612/cip/kisspng-logo-mysql-organization-php-clip-art-php-sorusuna-uyun-ekilleri-pulsuz-ykle-be-5d01a8a69847c2.0126441615603897986238.jpg">
-  <img align="center" alt="linux" height="30" width="40" src="https://png2.cleanpng.com/sh/f9101cadde8762407382417fcd09f01d/L0KzQYm3VMEzN6prj5H0aYP2gLBuTgB6fJl0hp95cnBqgrL0jflvb15xedDwdXHqdX7qjB1xfaVqip95cnBqgrL0jflvb15xedDwdXHqdX68gfNnbJQ4Tqc7OULkRnA9WcE2OWE9UaMAMkO4R4KAVsY0O2k3RuJ3Zx==/kisspng-python-programming-language-computer-programming-language-5acfdc365292a6.6915108915235717663382.png">
+  <img align="center" alt="windows" height="30" width="90" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+  <img align="center" alt="android-studio" height="30" width="85" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+  <img align="center" alt="php" height="30" width="50" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img align="center" alt="Pycharm" height="32" width="85" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
+  <img align="center" alt="VSCode" height="30" width="95" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+    <img align="center" alt="photoshop" height="30" width="85" src="https://aleen42.github.io/badges/src/photoshop.svg">
 </div><br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gabrielbflucas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://discord.com/invite/6JsZbkbY" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   </a>
 </div>
 
