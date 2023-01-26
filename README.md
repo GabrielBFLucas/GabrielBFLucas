@@ -48,6 +48,6 @@
 </div>
 
 <div align="center">
-  <p>Feito com :heart: e JavaScript.</p>
+  <p>Feito com :heart: e HTML.</p>
   <p>Créditos: <a href="https://github.com/GabrielBFLucas">Gabriel Barbosa</a></p>
 </div>
